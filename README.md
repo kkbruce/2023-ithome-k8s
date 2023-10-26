@@ -53,6 +53,10 @@ kubectl delete deployment web
 kubectl get pods -o wide
 ```
 
+## winget
+
+[NET開發人員安裝軟體新選擇，使用winget](https://blog.kkbruce.net/2023/09/net-developer-use-winget.html)
+
 ## Docker Desktop
 
 > [Docker Desktop](https://www.docker.com/products/docker-desktop/)
